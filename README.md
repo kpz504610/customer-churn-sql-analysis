@@ -91,8 +91,10 @@ This was higher than the overall churn rate for either new customers or month-to
 ## Project Files
 
 customer-churn-sql-analysis/
-README.md
-churn_analysis.sql
+│
+├── README.md
+└── churn_analysis.sql
+
 
 ## Skills Demonstrated
 
