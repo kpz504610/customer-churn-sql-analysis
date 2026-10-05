@@ -11,6 +11,7 @@ The analysis was performed using SQLite and DB Browser for SQLite.
 ## Dataset
 
 - Dataset: IBM Telco Customer Churn
+- Dataset Source: IBM Telco Customer Churn dataset
 - Number of customers: 7,043
 - Database: SQLite
 - SQL tool: DB Browser for SQLite
