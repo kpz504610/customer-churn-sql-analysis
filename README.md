@@ -89,8 +89,17 @@ This was higher than the overall churn rate for either new customers or month-to
 
 ## Project Files
 
-```text
 customer-churn-sql-analysis/
-│
-├── README.md
-└── churn_analysis.sql
+README.md
+churn_analysis.sql
+
+## Skills Demonstrated
+
+- SQL data analysis
+- Customer segmentation
+- Churn rate calculation
+- Aggregation and grouping
+- Conditional logic with `CASE WHEN`
+- Subqueries
+- Data quality validation
+- Business-oriented data interpretation
