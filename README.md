@@ -106,3 +106,18 @@ customer-churn-sql-analysis/
 - Subqueries
 - Data quality validation
 - Business-oriented data interpretation
+
+## Visualizations
+
+### Churn Rate by Contract Type
+
+![Churn Rate by Contract Type](Churn%20Rate%20by%20Contract%20Type.png)
+
+### Churn Rate by Payment Method
+
+![Churn Rate by Payment Method](Churn%20Rate%20by%20Payment%20Method.png)
+
+### Churn Rate by Tenure Group
+
+![Churn Rate by Tenure Group](Churn%20Rate%20by%20Tenure%20Group.png)
+
